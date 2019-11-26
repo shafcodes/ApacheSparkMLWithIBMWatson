@@ -1,4 +1,4 @@
-# ApacheSparkMLWithIBMWatson
+# Apache Spark ML With IBM Watson
 
 
 These notebooks are solved for the Apache Spark ML course on Coursera.
